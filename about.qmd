@@ -3,3 +3,7 @@ title: "About"
 ---
 
 About this site
+
+My name is **Areeb Atif**, and I love doing **fun stuff**
+
+I learn data science in (https://bootcamp.davidkane.info)

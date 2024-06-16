@@ -11,6 +11,69 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "About this site\nMy name is Areeb Atif, and I love doing fun stuff\nI learn data science in (https://bootcamp.davidkane.info)"
+  },
+  {
+    "objectID": "sources.html",
+    "href": "sources.html",
+    "title": "sources",
+    "section": "",
+    "text": "An overview of sources used in my project. These are my sources. Here are some challenges. Quarto websites are awesome."
+  },
+  {
+    "objectID": "sources.html#quarto",
+    "href": "sources.html#quarto",
+    "title": "sources",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "sources.html#running-code",
+    "href": "sources.html#running-code",
+    "title": "sources",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "source 1.html",
+    "href": "source 1.html",
+    "title": ".",
+    "section": "",
+    "text": "title: “Untitled” format: html —"
+  },
+  {
+    "objectID": "source 1.html#quarto",
+    "href": "source 1.html#quarto",
+    "title": ".",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "source 1.html#running-code",
+    "href": "source 1.html#running-code",
+    "title": ".",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "source 2.html",
+    "href": "source 2.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "source 2.html#quarto",
+    "href": "source 2.html#quarto",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "source 2.html#running-code",
+    "href": "source 2.html#running-code",
+    "title": "Untitled",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   }
 ]
